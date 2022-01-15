@@ -1,0 +1,10 @@
+
+.checkboxes {
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.checkboxes:hover,
+.checkboxes:focus,
+.checkboxes:active {
+  color: #0070f3;
+}
